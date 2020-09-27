@@ -1,3 +1,6 @@
+
+import java.util.Arrays; 
+
 public class MergeSortInversions{
     // Function to count the number of inversions 
     // during the merge process 
